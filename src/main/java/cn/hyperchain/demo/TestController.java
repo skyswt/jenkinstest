@@ -9,7 +9,7 @@ public class TestController {
     @RequestMapping("/test")
     @ResponseBody
     public String hello() {
-        return "final";
+        return "fiffnal";
     }
 
 }

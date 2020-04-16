@@ -12,7 +12,4 @@ public class TestController {
         return "hello worfs32ld";
     }
 
-    public void sayBye() {
-        System.out.println("bye");
-    }
 }

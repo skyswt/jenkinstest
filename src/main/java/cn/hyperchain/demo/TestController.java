@@ -11,4 +11,8 @@ public class TestController {
     public String hello() {
         return "hello worfs32ld";
     }
+
+    public void sayBye() {
+        System.out.println("bye");
+    }
 }

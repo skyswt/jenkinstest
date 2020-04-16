@@ -9,6 +9,6 @@ public class TestController {
     @RequestMapping("/test")
     @ResponseBody
     public String hello() {
-        return "你好，世界";
+        return "你好，世3界";
     }
 }
